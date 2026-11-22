@@ -1,28 +1,28 @@
 # Source ledger — Saturday 21 November 2026
 
-The image separates three lead stories, ten feature reports, and 22 briefs. Reports are dated to the 21 November news cycle; where the event date differs, the caption says so here.
+The image separates three lead stories, eight feature reports, and 24 briefs. Reports are dated to the 21 November news cycle; where the event date differs, the caption says so here.
 
 ## Lead stories
 
 1. **COP31 overtime.** AP reported negotiators entering a second day of overtime while divided over fossil-fuel language; no final outcome is asserted. [Associated Press](https://apnews.com/article/b54eebcade92e5ee4c513b9a5b2192a7)
-2. **Kryvyi Rih strike.** AP reported two killed and 60 wounded in the Russian missile strike; local officials supplied the casualty figures. [Associated Press](https://apnews.com/article/russia-ukraine-war-missile-zelenskyy-trump-bfdee2ffadc2693e7338d6822e5356ef)
-3. **Hormuz shipping.** AP's Saturday roundup says the UKMTO reported two tankers hit by projectiles and Iran's navy said a third struck a mine. Attribution remains vessel-specific. [Associated Press](https://apnews.com/article/29159a6f3365ff447c0ccbd1d7260f75)
+2. **Riyadh missile interceptions.** Saudi-led coalition said it intercepted three ballistic missiles fired toward Riyadh. [Gulf News, 21 November](https://gulfnews.com/uae/middle-east-war-8-things-uae-residents-need-to-know-tonight-november-21-1.500756425)
+3. **Peru earthquake.** **Date shift:** a magnitude 6.7 quake struck at 7:09 p.m. Friday local time; AP's first report is dated Saturday UTC and said no damage or casualties were immediately reported. [Associated Press](https://apnews.com/article/d9c0a1de6be970d6a5a36993c607f29f)
 
-## Ten feature reports
+## Eight feature reports
 
-4. Saudi-led coalition says it intercepted three ballistic missiles fired toward Riyadh. [Gulf News, 21 November](https://gulfnews.com/uae/middle-east-war-8-things-uae-residents-need-to-know-tonight-november-21-1.500756425)
-5. **Date shift:** a magnitude 6.7 quake struck Peru at 7:09 p.m. Friday local time; AP's first report is dated Saturday UTC and said no damage or casualties were immediately reported. [Associated Press](https://apnews.com/article/d9c0a1de6be970d6a5a36993c607f29f)
-6. UN-backed Geneva talks extended discussion of lethal autonomous weapons for two years, without a binding-standards commitment. [Associated Press](https://apnews.com/article/ebe057d2a47cde53100970c8f648e7fa)
-7. Three men were killed in a strike on a food-carrying truck in Gaza, according to Shifa Hospital's director; Israel said it targeted Islamic Jihad militants in the vehicle. [Associated Press](https://apnews.com/article/29159a6f3365ff447c0ccbd1d7260f75)
-8. Mexican authorities captured Fausto Isidro Meza Flores; AP reported at least 11 people killed in the operation's violence. [Associated Press](https://apnews.com/article/mexico-cartels-el-chapo-isidro-sinaloa-violence-7301b67a1b1b974bc6bd20c9d030ce07)
-9. FBI is investigating an apparent breach of the National Crime Information Center, AP reported citing a person familiar with the matter. [Associated Press](https://apnews.com/article/d066cff87a64a564db0a00172c124972)
-10. Taiwan's deputy foreign minister warned Canada against deeper China trade ties at the Halifax security forum. [Associated Press](https://apnews.com/article/2e5eb3949e4c1a1d394363663791f883)
-11. Finland's Defense Ministry suspected a Russian helicopter violated its airspace and linked the concern to a drone strike on a Russian cargo ship. [Deutsche Welle](https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133)
-12. Denmark ordered Russia's defense attaché to leave and said it would halt non-essential visas for Russian citizens. [Anadolu Agency, Saturday briefing](https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676)
+4. UN-backed Geneva talks extended discussion of lethal autonomous weapons for two years, without a binding-standards commitment. [Associated Press](https://apnews.com/article/ebe057d2a47cde53100970c8f648e7fa)
+5. Three men were killed in a strike on a food-carrying truck in Gaza, according to Shifa Hospital's director; Israel said it targeted Islamic Jihad militants in the vehicle. [Associated Press](https://apnews.com/article/29159a6f3365ff447c0ccbd1d7260f75)
+6. Mexican authorities captured Fausto Isidro Meza Flores; AP reported at least 11 people killed in the operation's violence. [Associated Press](https://apnews.com/article/mexico-cartels-el-chapo-isidro-sinaloa-violence-7301b67a1b1b974bc6bd20c9d030ce07)
+7. FBI is investigating an apparent breach of the National Crime Information Center, AP reported citing a person familiar with the matter. [Associated Press](https://apnews.com/article/d066cff87a64a564db0a00172c124972)
+8. Finland's Defense Ministry suspected a Russian helicopter violated its airspace and linked the concern to a drone strike on a Russian cargo ship. [Deutsche Welle](https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133)
+9. Denmark ordered Russia's defense attaché to leave and said it would halt non-essential visas for Russian citizens. [Anadolu Agency, Saturday briefing](https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676)
+10. A Russian missile strike on Ukrainian President Volodymyr Zelenskyy's home city killed two people and wounded 60, according to local officials cited by AP. [Associated Press](https://apnews.com/article/russia-ukraine-war-missile-zelenskyy-trump-bfdee2ffadc2693e7338d6822e5356ef)
+11. AP's Saturday roundup says the UKMTO reported two tankers hit by projectiles and Iran's navy said a third struck a mine. Attribution remains vessel-specific. [Associated Press](https://apnews.com/article/29159a6f3365ff447c0ccbd1d7260f75)
+
+## Twenty-four briefs
+
+12. Taiwan's deputy foreign minister warned Canada against deeper China trade ties at the Halifax security forum. [Associated Press](https://apnews.com/article/2e5eb3949e4c1a1d394363663791f883)
 13. A Russian drone attack on an apartment building in Ukraine's Kharkiv region wounded 11 people, including two children, officials said. [Associated Press](https://apnews.com/article/russia-ukraine-war-missile-zelenskyy-trump-bfdee2ffadc2693e7338d6822e5356ef)
-
-## Twenty-two briefs
-
 14. CAF's executive committee approved the launch of a U-17 Women's Africa Cup of Nations. [CAF, 21 November](https://www.cafonline.com/inside-caf/news/caf-executive-committee-approves-historic-launch-of-u-17-womens-africa-cup-of-nations-and-opens-bidding-for-wafcon-2028/)
 15. The ANC was seeking coalition deals to retain city governments after a poor local-election result; the BBC report was published 21 November. [BBC report, republished by Aaja News](https://news.aaja.co/articles/65711/)
 16. Angola's state diamond miner Endiama said it would buy a 10% De Beers stake for $180 million. [Anadolu Agency, Saturday briefing](https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676)
