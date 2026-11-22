@@ -5,10 +5,11 @@
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
-import { copyFileSync } from 'node:fs';
+import { copyFileSync, mkdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
 const entryDirectory = dirname(fileURLToPath(import.meta.url));
 const outputDirectory = process.env.MAKEFUN_OUTPUT_DIR || '/output';
+mkdirSync(outputDirectory, { recursive: true });
 copyFileSync(join(entryDirectory, 'entry.png'), join(outputDirectory, 'entry.png'));
