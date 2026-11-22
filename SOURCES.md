@@ -1,6 +1,6 @@
 # Source ledger — Saturday 21 November 2026
 
-The image separates three lead stories, eight feature reports, and 24 briefs across seven regions. Reports are dated to the 21 November news cycle; where the event date differs, the date note says so.
+The image separates three lead stories, nine feature reports, and 23 briefs across seven regions. Reports are dated to the 21 November news cycle; where the event date differs, the date note says so.
 
 ## Lead stories
 
@@ -8,7 +8,7 @@ The image separates three lead stories, eight feature reports, and 24 briefs acr
 2. **Riyadh missile interceptions.** Saudi-led coalition said it intercepted three ballistic missiles fired toward Riyadh. [Gulf News, 21 November](https://gulfnews.com/uae/middle-east-war-8-things-uae-residents-need-to-know-tonight-november-21-1.500756425)
 3. **Peru earthquake.** **Date shift:** a magnitude 6.7 quake struck at 7:09 p.m. Friday local time; AP's first report is dated Saturday UTC and said no damage or casualties were immediately reported. [Associated Press](https://apnews.com/article/d9c0a1de6be970d6a5a36993c607f29f)
 
-## Eight feature reports
+## Nine feature reports
 
 4. UN-backed Geneva talks extended discussion of lethal autonomous weapons for two years, without a binding-standards commitment. [Associated Press](https://apnews.com/article/ebe057d2a47cde53100970c8f648e7fa)
 5. AP reported two killed and 60 wounded in the Russian missile strike on Kryvyi Rih; local officials supplied the casualty figures. [Associated Press](https://apnews.com/article/russia-ukraine-war-missile-zelenskyy-trump-bfdee2ffadc2693e7338d6822e5356ef)
@@ -18,10 +18,10 @@ The image separates three lead stories, eight feature reports, and 24 briefs acr
 9. An Air Niugini flight carrying 146 passengers and crew made an emergency landing in Davao after an indication of a possible engine fire; all aboard were safe, officials said. [Associated Press, 21 November](https://apnews.com/article/a7626e8c97e7b829d3c825c15b5a50c4)
 10. Taiwan's deputy foreign minister warned Canada against deeper China trade ties at the Halifax security forum. [Associated Press](https://apnews.com/article/2e5eb3949e4c1a1d394363663791f883)
 11. Finland's Defense Ministry suspected a Russian helicopter violated its airspace and linked the concern to a drone strike on a Russian cargo ship. [Deutsche Welle](https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133)
-
-## Twenty-four briefs
-
 12. FBI is investigating an apparent breach of the National Crime Information Center, AP reported citing a person familiar with the matter. [Associated Press](https://apnews.com/article/d066cff87a64a564db0a00172c124972)
+
+## Twenty-three briefs
+
 13. Denmark ordered Russia's defense attaché to leave and said it would halt non-essential visas for Russian citizens. [Anadolu Agency, Saturday briefing](https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676)
 14. A Russian drone attack on an apartment building in Ukraine's Kharkiv region wounded 11 people, including two children, officials said. [Associated Press](https://apnews.com/article/russia-ukraine-war-missile-zelenskyy-trump-bfdee2ffadc2693e7338d6822e5356ef)
 15. CAF's executive committee approved the launch of a U-17 Women's Africa Cup of Nations. [CAF, 21 November](https://www.cafonline.com/inside-caf/news/caf-executive-committee-approves-historic-launch-of-u-17-womens-africa-cup-of-nations-and-opens-bidding-for-wafcon-2028/)
