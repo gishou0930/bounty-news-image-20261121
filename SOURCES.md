@@ -1,6 +1,6 @@
 # Source ledger — Saturday 21 November 2026
 
-The image separates three lead stories, eight feature reports, and 24 briefs. Reports are dated to the 21 November news cycle; where the event date differs, the caption says so here.
+The image is an editorial selection of nine reports across six regions. It prioritizes consequential stories and geographic breadth; event and reporting dates are distinguished below where they differ.
 
 ## Lead stories
 
@@ -8,40 +8,11 @@ The image separates three lead stories, eight feature reports, and 24 briefs. Re
 2. **Riyadh missile interceptions.** Saudi-led coalition said it intercepted three ballistic missiles fired toward Riyadh. [Gulf News, 21 November](https://gulfnews.com/uae/middle-east-war-8-things-uae-residents-need-to-know-tonight-november-21-1.500756425)
 3. **Peru earthquake.** **Date shift:** a magnitude 6.7 quake struck at 7:09 p.m. Friday local time; AP's first report is dated Saturday UTC and said no damage or casualties were immediately reported. [Associated Press](https://apnews.com/article/d9c0a1de6be970d6a5a36993c607f29f)
 
-## Eight feature reports
+## Other reports
 
-4. UN-backed Geneva talks extended discussion of lethal autonomous weapons for two years, without a binding-standards commitment. [Associated Press](https://apnews.com/article/ebe057d2a47cde53100970c8f648e7fa)
-5. Three men were killed in a strike on a food-carrying truck in Gaza, according to Shifa Hospital's director; Israel said it targeted Islamic Jihad militants in the vehicle. [Associated Press](https://apnews.com/article/29159a6f3365ff447c0ccbd1d7260f75)
-6. Mexican authorities captured Fausto Isidro Meza Flores; AP reported at least 11 people killed in the operation's violence. [Associated Press](https://apnews.com/article/mexico-cartels-el-chapo-isidro-sinaloa-violence-7301b67a1b1b974bc6bd20c9d030ce07)
-7. FBI is investigating an apparent breach of the National Crime Information Center, AP reported citing a person familiar with the matter. [Associated Press](https://apnews.com/article/d066cff87a64a564db0a00172c124972)
-8. Finland's Defense Ministry suspected a Russian helicopter violated its airspace and linked the concern to a drone strike on a Russian cargo ship. [Deutsche Welle](https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133)
-9. Denmark ordered Russia's defense attaché to leave and said it would halt non-essential visas for Russian citizens. [Anadolu Agency, Saturday briefing](https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676)
-10. A Russian missile strike on Ukrainian President Volodymyr Zelenskyy's home city killed two people and wounded 60, according to local officials cited by AP. [Associated Press](https://apnews.com/article/russia-ukraine-war-missile-zelenskyy-trump-bfdee2ffadc2693e7338d6822e5356ef)
-11. AP's Saturday roundup says the UKMTO reported two tankers hit by projectiles and Iran's navy said a third struck a mine. Attribution remains vessel-specific. [Associated Press](https://apnews.com/article/29159a6f3365ff447c0ccbd1d7260f75)
-
-## Twenty-four briefs
-
-12. Taiwan's deputy foreign minister warned Canada against deeper China trade ties at the Halifax security forum. [Associated Press](https://apnews.com/article/2e5eb3949e4c1a1d394363663791f883)
-13. A Russian drone attack on an apartment building in Ukraine's Kharkiv region wounded 11 people, including two children, officials said. [Associated Press](https://apnews.com/article/russia-ukraine-war-missile-zelenskyy-trump-bfdee2ffadc2693e7338d6822e5356ef)
-14. CAF's executive committee approved the launch of a U-17 Women's Africa Cup of Nations. [CAF, 21 November](https://www.cafonline.com/inside-caf/news/caf-executive-committee-approves-historic-launch-of-u-17-womens-africa-cup-of-nations-and-opens-bidding-for-wafcon-2028/)
-15. The ANC was seeking coalition deals to retain city governments after a poor local-election result; the BBC report was published 21 November. [BBC report, republished by Aaja News](https://news.aaja.co/articles/65711/)
-16. Angola's state diamond miner Endiama said it would buy a 10% De Beers stake for $180 million. [Anadolu Agency, Saturday briefing](https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676)
-17. **Date shift:** former Nigeria captain Segun Odegbami said three armed men attacked his home early Friday; Nigeria Info FM published his account Saturday, and police said they were investigating. [Nigeria Info FM, 21 November](https://www.nigeriainfo.fm/abuja/news/homepage/odegbami-survives-machete-attack-at-abeokuta-home/)
-18. South Korean President Lee Jae Myung called for an exam-system overhaul and tougher penalties after cheating scandals involving AI and prohibited devices. [Anadolu Agency, Saturday briefing](https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676)
-19. German Chancellor Friedrich Merz and Qatar's emir announced expanded cooperation; Qatar pledged an additional €15 billion in investment in Germany. [Anadolu Agency, Saturday briefing](https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676)
-20. The EU and UK agreed to deepen cooperation on security, defense, youth mobility and migration at their Brussels summit. [Anadolu Agency, Saturday briefing](https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676)
-21. Lufthansa planned 1,000 job cuts and lower short- and medium-haul capacity after reporting a €180 million operating loss for the first nine months of 2026. [Anadolu Agency, Saturday briefing](https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676)
-22. A senior British military commander publicly confirmed offensive cyber operations by the UK's National Cyber Force against Russia, China, Iran and North Korea. [Anadolu Agency, Saturday briefing](https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676)
-23. Saudi-led coalition said it intercepted two Houthi ballistic missiles aimed at Jazan; no casualties or damage were reported. [Anadolu Agency, Saturday briefing](https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676)
-24. Iran's deputy foreign minister said Tehran remained in contact with Qatar mediators about a possible renewed diplomatic opening. [Associated Press](https://apnews.com/article/29159a6f3365ff447c0ccbd1d7260f75)
-25. Lebanon's President Joseph Aoun, speaking on Independence Day, named Israel's occupation and foreign interference as obstacles, specifically referring to influential figures in Iran. [Associated Press](https://apnews.com/article/29159a6f3365ff447c0ccbd1d7260f75)
-26. Education Cannot Wait announced $52 million to support more than 300,000 children affected by crises in Lebanon, Myanmar and South Sudan. [Anadolu Agency, Saturday briefing](https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676)
-27. The first U.S. offshore critical-minerals lease sale near American Samoa drew $6 million in high bids from one bidder. [Anadolu Agency, Saturday briefing](https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676)
-28. Sen. Mike Rounds said new Pentagon limits on Canada mostly covered think-tank events and social engagement, not military operations or intelligence sharing. [Associated Press](https://apnews.com/article/pentagon-canada-halifax-security-forum-think-tanks-1959fff46997c899f3c2bc2df7220ec6)
-29. Immigration officers detained two people on a crowded Seattle airport jet bridge, delaying a flight; the airline called the scene distressing. [Associated Press](https://apnews.com/article/immigration-arrest-seattle-airport-ice-4748ddb6161c28853d763e835aeb31f1)
-30. AP reported that a late-Friday executive order directs federal contractors to consult the White House before responding to congressional inquiries. [Associated Press, report dated 21 November](https://apnews.com/article/9546e1d7acdf3e65b654d1c5162cb0bd)
-31. At a Saturday news conference, Vice President JD Vance stopped short of endorsing Donald Trump's claim about Iran's nuclear program. [The Guardian, 21 November](https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon)
-32. Trump threatened military action if Iran carried out a reported “dirty bomb” plot targeting Washington; the allegation was not independently established in the briefing. [Anadolu Agency, Saturday briefing](https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676)
-33. The Guardian examined debt and financing risks in the AI data-center boom through cloud-computing company CoreWeave. [The Guardian, 21 November](https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom)
-34. On the 21 November match day in Wellington, India added 327 runs for three wickets in its Test against New Zealand. [International Cricket Council, 21 November](https://www.icc-cricket.com/tournaments/world-test-championship/news/india-s-near-perfect-day-puts-them-ahead-in-wellington)
-35. FIA said it would begin introducing full-time Formula 1 stewards in 2027. [Anadolu Agency, Saturday briefing](https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676)
+4. **Kryvyi Rih strike.** AP reported two killed and 60 wounded in the Russian missile strike; local officials supplied the casualty figures. [Associated Press](https://apnews.com/article/russia-ukraine-war-missile-zelenskyy-trump-bfdee2ffadc2693e7338d6822e5356ef)
+5. **Hormuz shipping.** AP's Saturday roundup says the UKMTO reported two tankers hit by projectiles and Iran's navy said a third struck a mine. Attribution remains vessel-specific. [Associated Press](https://apnews.com/article/29159a6f3365ff447c0ccbd1d7260f75)
+6. **Gaza strike.** Three men were killed in a strike on a food-carrying truck, according to Shifa Hospital's director; Israel said it targeted Islamic Jihad militants in the vehicle. [Associated Press](https://apnews.com/article/29159a6f3365ff447c0ccbd1d7260f75)
+7. **Mexico cartel capture.** Authorities captured Fausto Isidro Meza Flores; AP reported at least 11 people killed in the operation's violence. [Associated Press](https://apnews.com/article/mexico-cartels-el-chapo-isidro-sinaloa-violence-7301b67a1b1b974bc6bd20c9d030ce07)
+8. **Taiwan-Canada warning.** Taiwan's deputy foreign minister warned Canada against deeper China trade ties at the Halifax security forum. [Associated Press](https://apnews.com/article/2e5eb3949e4c1a1d394363663791f883)
+9. **South African coalition talks.** The ANC was seeking coalition deals to retain city governments after a poor local-election result; the BBC report was published 21 November. [BBC report, republished by Aaja News](https://news.aaja.co/articles/65711/)
