@@ -6,6 +6,9 @@
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
 import { copyFileSync } from 'node:fs';
-import { join } from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { dirname, join } from 'node:path';
 
-copyFileSync(new URL('./entry.png', import.meta.url), join(process.env.MAKEFUN_OUTPUT_DIR ?? '/output', 'entry.png'));
+const entryDirectory = dirname(fileURLToPath(import.meta.url));
+const outputDirectory = process.env.MAKEFUN_OUTPUT_DIR || '/output';
+copyFileSync(join(entryDirectory, 'entry.png'), join(outputDirectory, 'entry.png'));
